@@ -6,6 +6,9 @@
 
 📄 **[View Full Lab Documentation (PDF)](./pfSense_Firewall_Lab_Documentation.pdf)**
 
+![Pfsense Firewall Lab Topology](./topology.png)
+
+
 ---
 
 ## Objective
@@ -120,6 +123,6 @@ WAN (10.0.0.228)  ←──→  pfSense Firewall  ←──→  LAN (10.0.0.50)
 | Project 3 — Active Directory Home Lab | [active-directory-lab](https://github.com/Daksh2601/active-directory-lab) |
 | Project 4 — Site-to-Site VPN | [site-to-site-vpn-lab](https://github.com/Daksh2601/site-to-site-vpn-lab) |
 | Project 5 — Network Monitoring with Zabbix | [network-monitoring-zabbix-lab](https://github.com/Daksh2601/network-monitoring-zabbix-lab) |
-| Project 6 — Firewall Lab with pfSense (this repo) | — |
+| Project 6 — Firewall Lab with pfSense (this repo) | [pfsense-firewall-lab](https://github.com/Daksh2601/Pfsense-firewall-lab)|
 
 *Daksh Patel · CCNA Certified · [LinkedIn](https://www.linkedin.com/in/pateldaksh)*
